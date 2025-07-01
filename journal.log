@@ -1,0 +1,9 @@
+{"timestamp":"2025-07-01T09:40:52.49397027Z","op":"CREATE","path":"file1.txt.locked"}
+{"timestamp":"2025-07-01T09:40:52.49407524Z","op":"RENAME","path":"file1.txt"}
+{"timestamp":"2025-07-01T09:41:03.831047991Z","op":"CREATE","path":"file2.txt.locked"}
+{"timestamp":"2025-07-01T09:41:03.831120837Z","op":"RENAME","path":"file2.txt"}
+{"timestamp":"2025-07-01T09:42:52.514810515Z","op":"WRITE","path":"file1.txt"}
+{"timestamp":"2025-07-01T09:42:52.514839611Z","op":"CREATE","path":"file1.txt"}
+{"timestamp":"2025-07-01T09:42:52.515175076Z","op":"WRITE","path":"file1.txt"}
+{"timestamp":"2025-07-01T09:43:13.387315757Z","op":"CREATE","path":"file1.txt.locked"}
+{"timestamp":"2025-07-01T09:43:13.387394433Z","op":"RENAME","path":"file1.txt"}
