@@ -1,7 +1,5 @@
-### ✅ Full `README.md` (copy & paste this into your repo)
 
-````markdown
-# 🛡️ Ransomware Recovery MVP
+### 🛡️ Ransomware Recovery MVP
 
 A minimalistic, working proof-of-concept for detecting and recovering from ransomware attacks on live file systems. Built entirely in Go, this MVP includes:
 
